@@ -1,0 +1,240 @@
+[
+  {
+    "category": "Sneakers",
+    "devices": [
+      {
+        "brand": "Nike Air Force 1",
+        "price": "$50-$150",
+        "attributes": "Brand, size, color, material"
+      },
+      {
+        "brand": "Adidas Stan Smith",
+        "price": "$50-$150",
+        "attributes": "Brand, size, color, material"
+      },
+      {
+        "brand": "Converse Chuck Taylor All-Stars",
+        "price": "$50-$150",
+        "attributes": "Brand, size, color, material"
+      },
+      {
+        "brand": "Vans Old Skool",
+        "price": "$50-$150",
+        "attributes": "Brand, size, color, material"
+      },
+      {
+        "brand": "New Balance 574",
+        "price": "$50-$150",
+        "attributes": "Brand, size, color, material"
+      }
+    ]
+  },
+  {
+    "category": "Backpacks",
+    "devices": [
+      {
+        "brand": "JanSport Big Student",
+        "price": "$30-$100",
+        "attributes": "Brand, size, color, compartments"
+      },
+      {
+        "brand": "North Face Jester",
+        "price": "$30-$100",
+        "attributes": "Brand, size, color, compartments"
+      },
+      {
+        "brand": "Herschel Little America",
+        "price": "$30-$100",
+        "attributes": "Brand, size, color, compartments"
+      },
+      {
+        "brand": "Patagonia Arbor Day Pack",
+        "price": "$30-$100",
+        "attributes": "Brand, size, color, compartments"
+      },
+      {
+        "brand": "Fjallraven Kanken",
+        "price": "$30-$100",
+        "attributes": "Brand, size, color, compartments"
+      }
+    ]
+  },
+  {
+    "category": "Laptops",
+    "devices": [
+      {
+        "brand": "Apple MacBook Air",
+        "price": "$300-$1500",
+        "attributes": "Brand, screen size, processor, operating system"
+      },
+      {
+        "brand": "HP Spectre x360",
+        "price": "$300-$1500",
+        "attributes": "Brand, screen size, processor, operating system"
+      },
+      {
+        "brand": "Microsoft Surface Laptop Go",
+        "price": "$300-$1500",
+        "attributes": "Brand, screen size, processor, operating system"
+      },
+      {
+        "brand": "Dell XPS 13",
+        "price": "$300-$1500",
+        "attributes": "Brand, screen size, processor, operating system"
+      },
+      {
+        "brand": "Lenovo Chromebook Flex 5",
+        "price": "$300-$1500",
+        "attributes": "Brand, screen size, processor, operating system"
+      }
+    ]
+  },
+  {
+    "category": "TVs",
+    "devices": [
+      {
+        "brand": "Samsung QLED Q70A",
+        "price": "$200-$1000",
+        "attributes": "Brand, screen size, resolution, smart features"
+      },
+      {
+        "brand": "LG C2 OLED",
+        "price": "$200-$1000",
+        "attributes": "Brand, screen size, resolution, smart features"
+      },
+      {
+        "brand": "Vizio P-Series Quantum X",
+        "price": "$200-$1000",
+        "attributes": "Brand, screen size, resolution, smart features"
+      },
+      {
+        "brand": "Hisense U8G",
+        "price": "$200-$1000",
+        "attributes": "Brand, screen size, resolution, smart features"
+      },
+      {
+        "brand": "TCL 5 Series",
+        "price": "$200-$1000",
+        "attributes": "Brand, screen size, resolution, smart features"
+      }
+    ]
+  },
+  {
+    "category": "Headphones",
+    "devices": [
+      {
+        "brand": "Sony",
+        "model": "WH-1000XM4",
+        "price": "$200-$300",
+        "features": {
+          "noise-canceling": true,
+          "connection-type": "wireless",
+          "sound-quality": "excellent",
+          "battery-life": "up to 30 hours"
+        }
+      },
+      {
+        "brand": "Apple",
+        "model": "AirPods Max",
+        "price": "$400-$500",
+        "features": {
+          "noise-canceling": true,
+          "connection-type": "wireless",
+          "sound-quality": "excellent",
+          "battery-life": "up to 20 hours"
+        }
+      },
+      {
+        "brand": "Bose",
+        "model": "QuietComfort 35 II",
+        "price": "$250-$350",
+        "features": {
+          "noise-canceling": true,
+          "connection-type": "wireless",
+          "sound-quality": "very good",
+          "battery-life": "up to 20 hours"
+        }
+      },
+      {
+        "brand": "Sennheiser",
+        "model": "Momentum 3 Wireless",
+        "price": "$250-$350",
+        "features": {
+          "noise-canceling": true,
+          "connection-type": "wireless",
+          "sound-quality": "very good",
+          "battery-life": "up to 17 hours"
+        }
+      },
+      {
+        "brand": "Anker",
+        "model": "Soundcore Life Q30",
+        "price": "$50-$100",
+        "features": {
+          "noise-canceling": true,
+          "connection-type": "wireless",
+          "sound-quality": "good",
+          "battery-life": "up to 40 hours"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Gaming Consoles",
+    "devices": [
+      {
+        "brand": "Sony",
+        "model": "PlayStation 5",
+        "price": "$400-$500",
+        "features": {
+          "games": "exclusive PlayStation games",
+          "accessories": "DualSense controller, PlayStation VR"
+        }
+      },
+      {
+        "brand": "Microsoft",
+        "model": "Xbox Series X",
+        "price": "$400-$500",
+        "features": {
+          "games": "exclusive Xbox games",
+          "accessories": "Xbox Wireless Controller, Xbox Series X|S Expansion Card"
+        }
+      },
+      {
+        "brand": "Nintendo",
+        "model": "Switch OLED",
+        "price": "$300-$400",
+        "features": {
+          "games": "exclusive Nintendo games",
+          "accessories": "Joy-Con controllers, Pro Controller"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Smartphones",
+    "devices": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14 Pro",
+        "price": "$900-$1200",
+        "features": {
+          "storage": "128GB, 256GB, 512GB, 1TB",
+          "camera": "48MP wide, 12MP ultrawide, 12MP telephoto",
+          "battery": "up to 18 hours of video playback"
+        }
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Ultra",
+        "price": "$1100-$1400",
+        "features": {
+          "storage": "128GB, 256GB, 512GB, 1TB",
+          "camera": "108MP wide, 12MP ultrawide, 10MP telephoto, 10MP telephoto periscope",
+          "battery": "up to 20 hours of video playback"
+        }
+      }
+    ]
+  }
+]
+
