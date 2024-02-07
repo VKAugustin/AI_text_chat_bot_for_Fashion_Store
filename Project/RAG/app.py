@@ -1,7 +1,7 @@
 import gradio as gr
 from rag_with_palm import RAGPaLMQuery
 
-
+#palm
 rag_palm_query_instance = RAGPaLMQuery()
 
 
