@@ -24,7 +24,7 @@ def chat_app(prompt):
 
     return response
 
-
+#interface with gardio
 iface = gr.Interface(
     fn=chat_app,
     inputs=gr.Textbox(placeholder="Type your message here..."),
